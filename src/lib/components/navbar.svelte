@@ -3,8 +3,8 @@
 	import { onMount } from 'svelte';
 
 	let links = {
-		About: '/about',
-		Services: '/services',
+		Services: '/#services',
+		Facility: '/facility',
 		Projects: '/projects',
 		Contact: '/contact'
 	};
